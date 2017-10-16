@@ -1,5 +1,5 @@
 # Simple-MNIST-Classifier
-<img src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png"></img>
+<img style="margin:auto" src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png"></img><br>
 Simple MNIST digit classifier using a softmax regressor on Tensorflow.
 
 Materials and Methods:

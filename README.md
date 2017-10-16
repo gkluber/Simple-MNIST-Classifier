@@ -12,5 +12,5 @@ Graph of accuracy over epochs visualized using Tensorboard. As the algorithm tra
 <h4>Conclusion:</h4><br>
 On test data, the MNIST classifier achieves an accuracy of 92.3%.
 
-References:
+References:<br>
 “MNIST For ML Beginners.” TensorFlow, Google Brain, 17 Aug. 2017, www.tensorflow.org/get_started/mnist/beginners.
